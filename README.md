@@ -3,6 +3,7 @@
 Analysis of Canadian Immigartion Patterns for the duration of 1980 -2013.
 
 Data Analysis using different Visualization tools using Matplotlib:
+  
   Pie Charts
   Box Plots
   Scatter Plots
